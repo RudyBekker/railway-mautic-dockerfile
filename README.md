@@ -1,11 +1,11 @@
 # Mautic Dockerfile for Railway
 
 This example deploys a self-hosted version of [mautic](https://www.mautic.org/). Using apache variant.
-Make sure you also setup a mysql database in Railway.
+Make sure you also setup a mysql database in [Railway](https://railway.app/).
 
 ## 💁‍♀️ How to use
 
-- On your railway dashboard, setup a MySQL database
+- On your [railway.app](https://railway.app/) dashboard, setup a MySQL database
 - Deploy this `Dockerfile` using the "from Github Repo" option
 
 ## 🌐 Environment Variables
