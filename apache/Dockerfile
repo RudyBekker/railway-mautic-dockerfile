@@ -30,7 +30,7 @@ RUN docker-php-ext-configure imap --with-imap --with-imap-ssl --with-kerberos \
 RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/bin --filename=composer
 
 # Define Mautic volume to persist data
-VOLUME /var/www/html
+# VOLUME /var/www/html
 
 # Define Mautic version and expected SHA1 signature
 ENV MAUTIC_VERSION 2.16.2
