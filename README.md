@@ -5,8 +5,9 @@ Make sure you also setup a mysql database in [Railway](https://railway.app/).
 
 ## 💁‍♀️ How to use
 
-- On your [railway.app](https://railway.app/) dashboard, setup a MySQL database
-- Deploy this `Dockerfile` using the "from Github Repo" option
+1. On your [railway.app](https://railway.app/) dashboard, setup a MySQL database
+2. Deploy this `Dockerfile` using the "from Github Repo" option
+3. Setup below environment variables via Railway dashboard
 
 ## 🌐 Environment Variables
 
